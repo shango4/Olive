@@ -1,0 +1,14 @@
+//network must remain on during this project(due to sheryjs)
+
+font extract: inspect > network > font(reload page) > woff2-ttf convert > import through font face if not working
+
+favicon
+
+gsap + scrolltrigger
+
+npm init -y
+npm install sheryjs
+sheryjs css cdn
+Three.js cdn
+Debug panel
+sheryjs js cdn
